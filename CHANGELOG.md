@@ -1,3 +1,8 @@
+<a name="26.5.2"></a>
+## [26.5.2](https://github.com/fulcanellee/ui-primitives/compare/v26.5.1...v26.5.2) (2025-03-27)
+
+
+
 <a name="26.5.1"></a>
 ## 26.5.1 (2025-03-27)
 
