@@ -4,7 +4,7 @@ rm -rf .publish
 mkdir .publish
 cp -r {icons,styles,animations,package.json,README.md,.npmrc} .publish
 cd .publish
-npm publish --access public
+npm publish
 
 echo "Publishing package to registry..."
 
