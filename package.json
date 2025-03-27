@@ -1,5 +1,5 @@
 {
-    "name": "ui-primitives",
+    "name": "@fulcanellee/ui-primitives",
     "version": "26.5.0",
     "description": "UI primitives for sharing between platforms in Design System Team projects",
     "keywords": [
@@ -10,7 +10,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/core-ds/ui-primitives.git"
+        "url": "git+https://github.com/fulcanellee/ui-primitives"
     },
     "author": "Design System Team",
     "license": "MIT",
