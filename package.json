@@ -24,7 +24,6 @@
         "test": "NODE_ENV=test nyc --reporter=lcov --reporter=text mocha ./utils/**/*.spec.js",
         "coverage": "nyc report --reporter=text-lcov | coveralls",
         "version": "git fetch --tags && npm run changelog && git add CHANGELOG.md",
-        "postversion": "npm run pub",
         "pub": "./utils/publish.sh",
         "ci": "./utils/ci.sh",
         "update-bb-mirror": "git push -f https://{userName}@git.moscow.alfaintra.net/scm/ef/ui-primitives.git"
